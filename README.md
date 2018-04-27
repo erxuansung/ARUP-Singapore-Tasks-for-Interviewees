@@ -11,4 +11,18 @@ http://developer.rhino3d.com/5/guides/rhinopython/python-reading-writing/
 In order to separate the output by line breaks, since I didn't quiet familier with python language, I check a bit online and found a guide from stackoverflow to work it out.
 https://stackoverflow.com/questions/34201288/write-a-txt-from-list-without-brackets
 
-To use this add-in in Rhino, you can just simply add the command from the top-left corner of it interface, insert "RunPythonScript", then select the target file which commits to the assigned action, exporting all layer names to a text file.
+To use this add-in in Rhino, you can just simply add the command from the top-left corner of it interface, insert "RunPythonScript" to the text box.
+
+![alt text](https://github.com/erxuansung/ARUP-Singapore-Tasks-for-Interviewees/blob/master/1.png)
+
+Then select the target file which commits to the assigned action, exporting all layer names to a text file.
+
+![alt text](https://github.com/erxuansung/ARUP-Singapore-Tasks-for-Interviewees/blob/master/2.png)
+
+You can either giving the text file a name or leave it to default, after select a folder to save the file, press the "save" botton.
+
+![alt text](https://github.com/erxuansung/ARUP-Singapore-Tasks-for-Interviewees/blob/master/3.png)
+
+Lasty, go directly to the folder and check it out, the result will be as follow.
+
+![alt text](https://github.com/erxuansung/ARUP-Singapore-Tasks-for-Interviewees/blob/master/4.png)
